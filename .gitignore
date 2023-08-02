@@ -1,0 +1,3 @@
+# Project exclude paths
+/ScraperApp-Java-main/AppScraper(Java)/target/
+/ScraperApp-SpringBoot-main/AppScraper(SpringBoot)/target/
