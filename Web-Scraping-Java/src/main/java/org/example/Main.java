@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) {
         String jdbcURL = "jdbc:postgresql://localhost:5432/WebScrapping";
         String username = "postgres";
-        String password = "Trabzon_3461?";
+        String password = " ";
 
         List<Product> teknosaList = new ArrayList<>();
         List<Product> n11list = new ArrayList<>();
