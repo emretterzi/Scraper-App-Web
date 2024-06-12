@@ -22,6 +22,10 @@ On the front-end, React is employed to provide a dynamic and user-friendly inter
 - Perform advanced queries or analytics on the stored data in the PostgreSQL database.
 - The application ensures a user-friendly experience, allowing seamless navigation and interaction with the scraped laptop product data.
 
+**Screenshot Products Table:**
+
+![PHOTO-2024-06-12-14-28-13](https://github.com/emretterzi/Scraper-App-Web/assets/56559417/c4c679b5-4787-4991-9129-32967a67ca7f)
+
 **Conclusion:**
 By leveraging the power of Java, Spring Boot, JSoup, React, and PostgreSQL, this web scraping project offers a comprehensive solution for gathering laptop product data from multiple e-commerce websites. The combination of a reliable back-end, a visually appealing front-end, and a well-organized database storage ensures a seamless experience for users interested in exploring and comparing laptop products.
 
